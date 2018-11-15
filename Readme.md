@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/BingMapsLesson/MainPage.xaml) (VB: [MainPage.xaml](./VB/BingMapsLesson/MainPage.xaml))
+<!-- default file list end -->
 # How to: Use the BingMapDataProvider
 
 
